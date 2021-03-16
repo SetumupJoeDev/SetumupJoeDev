@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SetumupJoeDev
+- 👀 I’m interested in making games!
+- 🌱 I’m currently learning how to write in C++!
+- 💞️ I’m looking to collaborate on fun stuff!
+- 📫 How to reach me: JamesCSmale@gmail.com
